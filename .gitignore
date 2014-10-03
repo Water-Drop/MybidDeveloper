@@ -20,3 +20,5 @@ WebContent/META-INF/MANIFEST.MF
 *.class
 
 build/classes/dbConfig.properties
+
+src/dbConfig.properties
