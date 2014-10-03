@@ -16,3 +16,7 @@
 .settings/org.eclipse.wst.common.component
 
 WebContent/META-INF/MANIFEST.MF
+
+*.class
+
+build/classes/dbConfig.properties
